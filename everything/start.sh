@@ -13,7 +13,7 @@ python3 client.py &
 python3 plugin.py &
 
 # Change to the sandbox directory
-cd /path/to/sandbox
+# cd /path/to/sandbox
 
 # Start the React app
-npm run start &
+# npm run start &
